@@ -1,0 +1,10 @@
+Function Input,value,Time
+MultipleOddonacci(0),1,1300 ns
+MultipleOddonacci(5),5,4000 ns
+MultipleOddonacci(10),105,12700 ns
+MultipleOddonacci(15),2209,142400 ns
+MultipleOddonacci(20),46499,2420300 ns
+MultipleOddonacci(25),978793,39790100 ns
+
+
+(calculation above 25 takes to much time since the time comlexity is exponential)
