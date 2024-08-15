@@ -1,7 +1,7 @@
 # Oddonacci Sequence Calculations
 
 ## Project Overview
-Project Repport .[here](https://www.example.com).
+Project Repport .[here](https://github.com/Silent0Wings/Oddonacci-Sequence-Calculations/blob/6cc48b494cb479e8351a28f720fa466c6bb1a380/Github.pdf).
 
 
 This project implements two methods for calculating Oddonacci numbers using Java: a linear tail-recursive approach and a multiple recursive approach. These methods are implemented to study their performance in terms of execution time and efficiency.
